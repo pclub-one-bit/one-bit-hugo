@@ -4,6 +4,19 @@ title = "ONE-BIT"
 copyright = "© 2018 Copyright ONE-BIT"
 canonifyurls = true
 
+[menu]
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "ブログ"
+    url = "/post/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "このサイトについて"
+    url = "/about/"
+    weight = 20
+
 [params]
   description = "広島市安佐南区で活動しているプログラミングクラブです" #optional
   googleanalytics = "UA-129664753-1" # optional
