@@ -30,13 +30,18 @@ copyright = "Code released under the Apache 2.0 license."
   url = "/"
   weight = -200
 [[menu.main]]
+  identifier = "about"
+  name = "このクラブについて"
+  url = "/about/"
+  weight = 10
+[[menu.main]]
   identifier = "blog"
   name = "ブログ"
   url = "/post/"
-  weight = 10
-[[menu.main]]
-  identifier = "about"
-  name = "このサイトについて"
-  url = "/about/"
   weight = 20
+[[menu.main]]
+  identifier = "sitet"
+  name = "このサイトについて"
+  url = "/site/"
+  weight = 30
 
