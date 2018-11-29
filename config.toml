@@ -1,27 +1,42 @@
-theme="amp"
 baseurl = "https://one-bit.net"
 title = "ONE-BIT"
-copyright = "© 2018 Copyright ONE-BIT"
 canonifyurls = true
-
-[menu]
-
-  [[menu.main]]
-    identifier = "blog"
-    name = "ブログ"
-    url = "/post/"
-    weight = 10
-  [[menu.main]]
-    identifier = "about"
-    name = "このサイトについて"
-    url = "/about/"
-    weight = 20
+paginate = 10
+theme = "startbootstrap-clean-blog"
+languageCode = "ja-jp"
+copyright = "Code released under the Apache 2.0 license."
+[author]
+    name = "ONE-BIT"
 
 [params]
-  description = "広島市安佐南区で活動しているプログラミングクラブです" #optional
-  googleanalytics = "UA-129664753-1" # optional
+  DateForm = "Mon, Jan 2, 2006"
+  Description = "広島市安佐南区で活動しているプログラミングクラブです"
+  Author = "ONE-BIT"
+  email = "pclub.onebit@gmail.com"
+  Ganalytics = "UA-129664753-1"
+  # This will load all the CSS defined in the list
+  # customCSS = ["<absolute path to CSS>", "/static/css/test.css", "<or just load it off the internet>"]
 
-# optional
-[social]
-  twitter = "@club_one_bit"
-  facebook = "kaneyasusatoshi"
+[[params.social]]
+  title = "twitter"
+  url = "https://twitter.com/pclub_one_bit"
+[[params.social]]
+  title = "facebook"
+  url = "https://facebook.com/kaneyasusatoshi"
+
+[[menu.main]]
+  identifier = "home"
+  name = "home"
+  url = "/"
+  weight = -200
+[[menu.main]]
+  identifier = "blog"
+  name = "ブログ"
+  url = "/post/"
+  weight = 10
+[[menu.main]]
+  identifier = "about"
+  name = "このサイトについて"
+  url = "/about/"
+  weight = 20
+

@@ -1,9 +1,9 @@
----
-lang: ja
-Layout: Page
-title: このサイトについて
-date: 2018-11-26
----
++++
+title = "About"
+description = "このサイトについて"
+type = "about"
++++
+
 ## アクセス解析ツールについて
 
 当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。  
