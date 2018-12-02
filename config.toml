@@ -10,7 +10,7 @@ copyright = "Code released under the Apache 2.0 license."
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "広島市安佐南区で活動しているプログラミングクラブです"
+  Description = "広島市安佐南区中筋近辺で活動しているプログラミングクラブです"
   Author = "ONE-BIT"
   email = "pclub.onebit@gmail.com"
   customCSS = ["/css/custom.css"]
