@@ -1,5 +1,5 @@
 +++
-title = "Site"
+title = "このサイトについて"
 description = "このサイトについて"
 type = "about"
 +++
