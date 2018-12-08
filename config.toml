@@ -144,7 +144,7 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
+    copyright = "ONE-BIT"
 
     # Uses font awesome icons
     [[params.footer.social]]
