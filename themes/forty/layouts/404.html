@@ -1,8 +1,9 @@
 <!-- Here you can create a custom 404 page when user finds a broken link or page. -->
 <!DOCTYPE HTML>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
-
+	<head>
 	{{ partial "header.html" . }}
+	</head>
 	<body>
 
 	{{ "<!-- Wrapper -->" | safeHTML }}
