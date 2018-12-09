@@ -92,7 +92,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "About"
       subtitle = "このクラブについて"
-      image = "about.jpg"
+      image = "about.png"
       url = "/about"
 
   [params.blog]
