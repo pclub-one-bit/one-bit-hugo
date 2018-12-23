@@ -20,7 +20,7 @@ disqusShortname = ""
 
   # Provide your metadata here.
   name = "ONE-BIT"
-  description = "広島市安佐南区中筋あたりで活動しているプログラミングクラブです。"
+  description = "広島市安佐南区中筋あたりで活動している子ども向けプログラミングクラブです。"
 
   # Link custom assets relative to /static
   custom_css = []
