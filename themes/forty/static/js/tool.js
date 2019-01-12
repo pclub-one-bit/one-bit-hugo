@@ -13,8 +13,8 @@
                     parts = type.split(" ");
                 }
                 if (parts.length == 2) {
-                    val += '"' + parts[0] + '"\n';
-                    val += '"' + parts[1] + '"\n';
+                    val += 'msgid "' + parts[0] + '"\n';
+                    val += 'msgstr "' + parts[1] + '"\n';
                     val += '\n';
                 }
 
