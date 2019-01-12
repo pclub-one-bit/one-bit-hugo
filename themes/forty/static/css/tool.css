@@ -1,0 +1,26 @@
+#excel2po div.area-from {
+    display: inline-block;
+    width: 49%;
+}
+
+#excel2po div.area-to {
+    display: inline-block;
+    width: 49%;
+}
+
+#excel2po div.area-from textarea {
+    border-right: 1px solid #000;
+    border-radius: 10px 0px 0px 10px;
+}
+
+#excel2po div.area-to textarea {
+    border-radius: 0px 10px 10px 0px;
+}
+
+#excel2po textarea {
+    background-color: #FFF;
+    color: #000;
+    resize: vertical;
+    overflow: auto;
+    font-size: 0.8em;
+}

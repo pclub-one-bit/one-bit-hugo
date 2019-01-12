@@ -23,8 +23,8 @@ disqusShortname = ""
   description = "広島市安佐南区中筋あたりで活動している子ども向けプログラミングクラブです。"
 
   # Link custom assets relative to /static
-  custom_css = []
-  custom_js  = []
+  custom_css = ['css/custom.css', 'css/tool.css']
+  custom_js  = ['js/tool.js']
   favicon    = "/icon/favicon.ico"
 
   # Just a custom image variable, please define it in .md files for content.
@@ -64,6 +64,10 @@ disqusShortname = ""
       url = "https://menta.work/plan/822?fbclid=IwAR3_lL8iyk9LRp5Wx06wxwaw2AyorzxqF2CsPlVVQYH3iVSMTw9Pz8pOoB0"
 
     [[params.navigation.links]]
+      name = "ツール"
+      url = "/tool"
+
+    [[params.navigation.links]]
       name = "このサイトについて"
       url = "/site"
 
@@ -99,11 +103,17 @@ disqusShortname = ""
       image = "about.jpg"
       url = "/about"
   
-      [[params.tiles.showcase]]
+    [[params.tiles.showcase]]
       title = "Menta"
       subtitle = "メンターもしてます"
       image = "menta.jpg"
       url = "https://menta.work/plan/822?fbclid=IwAR3_lL8iyk9LRp5Wx06wxwaw2AyorzxqF2CsPlVVQYH3iVSMTw9Pz8pOoB0"
+
+    [[params.tiles.showcase]]
+      title = "Tool"
+      subtitle = "管理人が作ったツール"
+      image = "tool.jpg"
+      url = "/tool"
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs

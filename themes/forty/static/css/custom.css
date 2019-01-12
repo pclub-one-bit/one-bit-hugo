@@ -1,0 +1,5 @@
+@media screen and (min-width: 768px) {
+    .image.main img {
+        width: 50% !important;
+    }
+}
