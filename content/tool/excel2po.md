@@ -16,16 +16,19 @@ Wordpressなどで使われるpoファイルを作るためのツールです。
 ---
 
 <div id="excel2po">
-    <div class="area-from">
-        *　半角空白／タブ区切り文字列
-        <textarea rows="20" id="excel2po-from">
+    <div id="button-area">
+        <button id="convert">変換</button>
+    </div>
+    <div class="area-left">
+        <label for="tsv">半角空白／タブ区切り文字列</label>
+        <textarea rows="20" id="source" name="tsv">
 キー1	名称1
 キー2	名称2
 キー3	名称3
         </textarea>
     </div>
-    <div class="area-to">
-        *　poファイル用文字列
-        <textarea rows="20" id="excel2po-to" readonly="readonly"></textarea>
+    <div class="area-right">
+        <label for="po">poファイル用文字列</label>
+        <textarea rows="20" id="po" name"po" readonly="readonly"></textarea>
     </div>
 </div>

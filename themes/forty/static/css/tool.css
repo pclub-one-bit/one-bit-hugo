@@ -1,19 +1,19 @@
-#excel2po div.area-from {
+#excel2po div.area-left {
     display: inline-block;
     width: 49%;
 }
 
-#excel2po div.area-to {
+#excel2po div.area-right {
     display: inline-block;
     width: 49%;
 }
 
-#excel2po div.area-from textarea {
+#excel2po div.area-left textarea {
     border-right: 1px solid #000;
     border-radius: 10px 0px 0px 10px;
 }
 
-#excel2po div.area-to textarea {
+#excel2po div.area-right textarea {
     border-radius: 0px 10px 10px 0px;
 }
 
@@ -23,4 +23,49 @@
     resize: vertical;
     overflow: auto;
     font-size: 0.8em;
+}
+
+#tsv2pichart div.area-from {
+    width: 100%;
+}
+
+#tsv2pichart div.area-to {
+    width: 100%;
+}
+
+#tsv2pichart-source th {
+    width: 20%;
+}
+
+input[type="number"] {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    background: rgba(212, 212, 255, 0.035);
+    border: none;
+    border-radius: 0;
+    color: inherit;
+    display: block;
+    outline: 0;
+    padding: 0 1em;
+    text-decoration: none;
+    width: 100%;
+}
+
+#tsv2pichart-source input,
+#tsv2pichart-source select {
+    /* font-size: 0.8em;
+    border-radius: 10px 10px 10px 10px; */
+    background-color: #FFF;
+    color: #000;
+}
+
+#tsv2pichart-source textarea {
+    background-color: #FFF;
+    color: #000;
+    resize: vertical;
+    overflow: auto;
+    /* font-size: 0.8em;
+    border-radius: 10px 10px 10px 10px; */
 }

@@ -24,7 +24,7 @@ disqusShortname = ""
 
   # Link custom assets relative to /static
   custom_css = ['css/custom.css', 'css/tool.css']
-  custom_js  = ['js/tool.js']
+  custom_js  = ['https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js', 'js/FileSaver.min.js', 'js/tool.js']
   favicon    = "/icon/favicon.ico"
 
   # Just a custom image variable, please define it in .md files for content.
@@ -38,7 +38,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "ONE-BIT"
-    subtitle = ""
+    subtitle = "プログラミングクラブ"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
