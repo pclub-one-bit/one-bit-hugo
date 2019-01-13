@@ -1,3 +1,16 @@
+.socialWrap {
+	padding: 20px 0;
+	text-align: left;
+}
+ 
+.socialWrap div {
+	display: inline-block;
+}
+ 
+.fb_iframe_widget > span {
+	vertical-align: baseline !important;
+}
+
 @media screen and (min-width: 768px) {
     .image.main img {
         width: 50% !important;
