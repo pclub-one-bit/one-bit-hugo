@@ -26,7 +26,7 @@ Excelでグラフを作るのが面倒な人、そもそもExcelを持ってな�
                 <td>
                     <select name="chart_type">
                         <option value="pie" selected>円</option>
-                        <option value="doughnut" selected>ドーナツ</option>
+                        <option value="doughnut">ドーナツ</option>
                     </select>
                 </td>
             </tr>
