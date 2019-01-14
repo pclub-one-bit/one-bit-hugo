@@ -15,4 +15,7 @@
     .image.main img {
         width: 50% !important;
     }
+    section#one img {
+        max-width: 50% !important;
+    }
 }
