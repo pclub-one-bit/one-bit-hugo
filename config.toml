@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://one-bit.net/"
 languageCode = "ja-jp"
-title = "子どもプログラミングクラブ ONE-BIT（わんびっと）"
+title = "プログラミングクラブ ONE-BIT（わんびっと）"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
