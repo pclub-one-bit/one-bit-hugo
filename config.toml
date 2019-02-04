@@ -60,12 +60,8 @@ disqusShortname = ""
       url = "/about"
 
     [[params.navigation.links]]
-      name = "メンターもしてます"
-      url = "https://menta.work/plan/822?fbclid=IwAR3_lL8iyk9LRp5Wx06wxwaw2AyorzxqF2CsPlVVQYH3iVSMTw9Pz8pOoB0"
-
-    [[params.navigation.links]]
-      name = "ツール"
-      url = "/tool"
+      name = "プログラミング教育の目的"
+      url = "/objective"
 
     [[params.navigation.links]]
       name = "このサイトについて"
@@ -102,18 +98,12 @@ disqusShortname = ""
       subtitle = "このクラブについて"
       image = "about.jpg"
       url = "/about"
-  
-    [[params.tiles.showcase]]
-      title = "Menta"
-      subtitle = "メンターもしてます"
-      image = "menta.jpg"
-      url = "https://menta.work/plan/822?fbclid=IwAR3_lL8iyk9LRp5Wx06wxwaw2AyorzxqF2CsPlVVQYH3iVSMTw9Pz8pOoB0"
 
     [[params.tiles.showcase]]
-      title = "Tool"
-      subtitle = "管理人が作ったツール"
-      image = "tool.jpg"
-      url = "/tool"
+      title = "Objective"
+      subtitle = "プログラミング教育の目的"
+      image = "objective.jpg"
+      url = "/objective"
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
