@@ -20,7 +20,7 @@ disqusShortname = ""
 
   # Provide your metadata here.
   name = "ONE-BIT"
-  description = "広島市安佐南区中筋あたりで活動している子ども向けプログラミング教室です。"
+  description = "広島市安佐南区中筋で活動している子供向けプログラミング教室です。プログラミングで論理的思考を育てませんか？"
 
   # Link custom assets relative to /static
   custom_css = ['css/custom.css', 'css/tool.css']
@@ -48,20 +48,20 @@ disqusShortname = ""
       url = "/"
 
     [[params.navigation.links]]
-      name = "ブログ"
-      url = "/post"
-
-    [[params.navigation.links]]
-      name = "開催カレンダー"
-      url = "/calendar"
-
-    [[params.navigation.links]]
       name = "この教室について"
       url = "/about"
 
     [[params.navigation.links]]
       name = "プログラミング教育の目的"
       url = "/objective"
+
+    [[params.navigation.links]]
+      name = "開催カレンダー"
+      url = "/calendar"
+
+    [[params.navigation.links]]
+      name = "ブログ"
+      url = "/post"
 
     [[params.navigation.links]]
       name = "このサイトについて"
@@ -82,18 +82,6 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Blog"
-      subtitle = "ブログ"
-      image = "blog.jpg"
-      url = "/post"
-
-    [[params.tiles.showcase]]
-      title = "Calendar"
-      subtitle = "開催カレンダー"
-      image = "calendar.jpg"
-      url = "/calendar"
-
-    [[params.tiles.showcase]]
       title = "About"
       subtitle = "この教室について"
       image = "about.jpg"
@@ -104,6 +92,18 @@ disqusShortname = ""
       subtitle = "プログラミング教育の目的"
       image = "objective.jpg"
       url = "/objective"
+
+    [[params.tiles.showcase]]
+      title = "Calendar"
+      subtitle = "開催カレンダー"
+      image = "calendar.jpg"
+      url = "/calendar"
+
+    [[params.tiles.showcase]]
+      title = "Blog"
+      subtitle = "ブログ"
+      image = "blog.jpg"
+      url = "/post"
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
