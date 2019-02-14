@@ -62,6 +62,10 @@ disqusShortname = ""
     [[params.navigation.links]]
       name = "ブログ"
       url = "/post"
+    
+    [[params.navigation.links]]
+      name = "講師について"
+      url = "/instructor"
 
     [[params.navigation.links]]
       name = "このサイトについて"
@@ -104,6 +108,12 @@ disqusShortname = ""
       subtitle = "ブログ"
       image = "blog.jpg"
       url = "/post"
+
+   [[params.tiles.showcase]]
+      title = "Instructor"
+      subtitle = "講師について"
+      image = "instructor.jpg"
+      url = "/instructor"
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
