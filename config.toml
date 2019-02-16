@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://one-bit.net/"
 languageCode = "ja-jp"
-title = "プログラミング教室 ONE-BIT（わんびっと）"
+title = "プログラミング教室ONE-BIT(わんびっと)|広島市安佐南区中筋|"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
