@@ -64,7 +64,7 @@ JavaScriptを用いたゲーム作りをします。
 ## 会場について
 
 会場はご予約パン屋くるくるさんの２階をお借りして開催しています。  
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3289.9238093244285!2d132.47962661483973!3d34.45408190389486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355a9eaff07fda6f%3A0xf0883e0e86eebbd5!2z44GP44KL44GP44KL!5e0!3m2!1sja!2sjp!4v1549974555566" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3290.0059092450406!2d132.47704881475246!3d34.451997880499135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355a9eb105f09739%3A0xedbb197c86a83c4b!2z44CSNzMxLTAxMjIg5bqD5bO255yM5bqD5bO25biC5a6J5L2Q5Y2X5Yy65Lit562L77yT5LiB55uu77yS77yR4oiS77yR77yX!5e0!3m2!1sja!2sjp!4v1552653187731" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## 費用について
 
