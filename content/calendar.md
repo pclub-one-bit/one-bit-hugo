@@ -3,8 +3,19 @@ title = "開催カレンダー"
 description = "開催カレンダー"
 type = "page"
 +++
-月に一度程度の頻度で開催しています。  
+レッスンは月に一度程度の頻度で開催しています。  
 活動内容は[こちら](/about)を御覧ください。  
-参加希望の方は[こちら](/#contact)でお問合せください。  
-<iframe src="https://calendar.google.com/calendar/embed?src=pclub.onebit%40gmail.com&ctz=Asia%2FTokyo&mode=AGENDA" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+参加希望の方は[こちら](/#contact)でお問合せください。
 
+## これからの予定
+|   |日付  |
+| ---- | ---- |
+|第５回  |３／２４（日）１０：００〜１１：００ |
+|第４回  |３／１７（日）１０：００〜１１：００ |
+
+## これまでの活動
+|   |日付  |
+| ---- | ---- |
+|[第３回](/post/20190223_1/)  |２／２３（土）１０：００〜１１：００ |
+|[第２回](/post/20190127_1/)  |１／２７（日）１０：００〜１１：００ |
+|[第１回](/post/20181209_1/)  |１２／９（日）１０：００〜１１：００ |
