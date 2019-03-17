@@ -20,7 +20,7 @@ disqusShortname = ""
 
   # Provide your metadata here.
   name = "ONE-BIT"
-  description = "しっかり考え　しっかり創る　広島市安佐南区中筋で活動している子ども向けプログラミング教室です。プログラミングを勉強して論理的思考力や問題解決力を身に着けよう！"
+  description = "広島市安佐南区中筋で活動している現役SE講師の低コストで少人数制のプログラミング教室です。プログラミングを勉強して論理的思考力や問題解決力を身に着けよう！"
 
   # Link custom assets relative to /static
   custom_css = ['css/custom.css', 'css/tool.css']
@@ -52,6 +52,10 @@ disqusShortname = ""
       url = "/about"
 
     [[params.navigation.links]]
+      name = "コース・料金について"
+      url = "/course"
+
+    [[params.navigation.links]]
       name = "プログラミング教育の目的"
       url = "/objective"
 
@@ -76,7 +80,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "ONE-BIT"
-    subtitle = "広島市安佐南区中筋あたりで活動しているプログラミング教室です。"
+    subtitle = "広島市安佐南区中筋で活動しているプログラミング教室です。"
     buttonText = "Get Started"
 
 
@@ -90,6 +94,12 @@ disqusShortname = ""
       subtitle = "この教室について"
       image = "about.jpg"
       url = "/about"
+
+    [[params.tiles.showcase]]
+      title = "Course"
+      subtitle = "コース・料金について"
+      image = "course.jpg"
+      url = "/course"
 
     [[params.tiles.showcase]]
       title = "Objective"
